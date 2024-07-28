@@ -5,7 +5,7 @@ Kamikaze were a part of the Japanese Special Attack Units of military aviators w
 
 ## Variable Font Axe
 
-kamikaze has the following axe:
+Kamikaze has the following axe:
 
 Axis | Tag | Default | Static Instances
 --- | --- | --- | ---
