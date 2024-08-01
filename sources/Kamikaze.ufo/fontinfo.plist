@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>676</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2018 by Vladimir Nikolic. All rights reserved.</string>
+  <string>Copyright (c) 2024 by Vladimir Nikolic. All rights reserved.</string>
   <key>descender</key>
   <integer>-56</integer>
   <key>familyName</key>
@@ -44,7 +44,7 @@
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2024/07/28 22:31:50</string>
+  <string>2024/08/01 12:49:46</string>
   <key>openTypeHeadFlags</key>
   <array>
     <integer>0</integer>
@@ -55,7 +55,7 @@
   <key>openTypeHeadLowestRecPPEM</key>
   <integer>9</integer>
   <key>openTypeHheaAscender</key>
-  <integer>676</integer>
+  <integer>1004</integer>
   <key>openTypeHheaCaretOffset</key>
   <integer>-0</integer>
   <key>openTypeHheaCaretSlopeRise</key>
@@ -63,9 +63,9 @@
   <key>openTypeHheaCaretSlopeRun</key>
   <integer>-0</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-56</integer>
+  <integer>-236</integer>
   <key>openTypeHheaLineGap</key>
-  <integer>49</integer>
+  <integer>29</integer>
   <key>openTypeNameDescription</key>
   <string>Copyright (c) 2018 by Vladimir Nikolic. All rights reserved.</string>
   <key>openTypeNameDesigner</key>
@@ -81,7 +81,7 @@
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameUniqueID</key>
-  <string>VladimirNikolic: Kamikaze Regular: 2018</string>
+  <string>VladimirNikolic: Kamikaze Regular: 2024</string>
   <key>openTypeNameVersion</key>
   <string>Version 1.000</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -138,7 +138,7 @@
   <key>openTypeOS2TypoDescender</key>
   <integer>-56</integer>
   <key>openTypeOS2TypoLineGap</key>
-  <integer>49</integer>
+  <integer>58</integer>
   <key>openTypeOS2UnicodeRanges</key>
   <array>
     <integer>0</integer>
@@ -150,9 +150,9 @@
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>732</integer>
+  <integer>1004</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>74</integer>
+  <integer>236</integer>
   <key>postscriptBlueFuzz</key>
   <integer>1</integer>
   <key>postscriptBlueScale</key>
